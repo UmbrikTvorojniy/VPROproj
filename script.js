@@ -25,3 +25,5 @@ function Print() {
             `;
             
 }
+function(){ let a = 15
+          console.log(a)}
